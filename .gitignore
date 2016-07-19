@@ -1,0 +1,7 @@
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+configure.py
+build
+.DS_Store
