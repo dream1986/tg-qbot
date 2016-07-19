@@ -7,7 +7,7 @@ from time import sleep
 import os
 import logging
 import argparse
-import configure
+from configure import __bot_token__
 # Enable Logging
 logging.basicConfig(
         format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
